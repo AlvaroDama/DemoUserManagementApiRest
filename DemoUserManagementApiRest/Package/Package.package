@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="799aaf21-6102-45dc-b896-8a3af02398f0" 
+        solutionId="799aaf21-6102-45dc-b896-8a3af02398f0" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="DemoUserManagementApiRest"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="ef5907e4-6a80-414f-accc-769d8e570df7" />
+  </features>
+</package>
